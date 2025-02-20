@@ -8,3 +8,4 @@
 
 -Pages: Carpeta que alberga otras carpetas o archivos correspondientes a las diferentes secciones de la página web.
 
+<hr>
