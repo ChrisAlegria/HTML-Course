@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="author" content="Christian Alegria Ruiz">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../assets/icons/favicon.ico">
+    <title>Multimedia</title>
+</head>
+
+<style>
+    body {
+        font-family: "Lucida Console", "Courier New", monospace;
+        background: linear-gradient(to right, rgb(189, 189, 255), rgb(255, 233, 236));
+        padding: 0;
+        margin: 0;
+    }
+
+    h1 {
+        background-color: black;
+        padding: 10px;
+        margin: 0;
+        color: #92a4ff;
+    }
+
+
+    header {
+        text-align: center;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+    video{
+        margin: 40px;
+    }
+
+    img{
+        width: 600px;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    li a:hover:not(.active) {
+        background-color: #111;
+    }
+
+    div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 33vw;
+    }
+
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+    div.desc {
+        padding: 15px;
+        text-align: center;
+    }
+
+    .centrado {
+        display: flex;
+        justify-content: center;
+    }
+
+    .active {
+        background-color: #04AA6D;
+    }
+
+    .footer {
+        background-color: #333;
+        color: #FFF;
+        padding: 10px;
+        text-align: center;
+        clear: both;
+    }
+
+    .video-container {
+        display: flex;
+        justify-content: center; /* Centra los videos horizontalmente */
+        align-items: center; /* Centra verticalmente si el contenedor tiene altura */
+    }
+</style>
+
+<body>
+    <header>
+        <h1>Coldplay</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="../index.html">Home</a>      
+                </li>
+                <li>
+                    <a href="discografia.html">Discografia</a>    
+                </li>
+                <li>
+                    <a href="multimedia.html" class="active">Multimedia</a>    
+                </li>
+                <li>
+                    <a href="contacto.html">contacto</a>    
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <audio autoplay loop>
+        <source src="../assets/audios/Coldplay - ANGEL SONG.mp3" type="audio/mp3">
+        <source src="../assets/audios/Coldplay - ANGEL SONG.flac" type="audio/x-flac">
+        <source src="../assets/audios/Coldplay - ANGEL SONG.wav" type="audio/x-wav">
+    </audio>
+
+    <div class="video-container">
+        <video autoplay muted loop width="25%">
+            <source src="../assets/videos/Fix You-Live.mp4" type="video/mp4">
+            <source src="../assets/videos/Fix You-Live.avi" type="video/x-msvideo">
+            <source src="../assets/videos/Fix You-Live.mov" type="video/quicktime">
+        </video>
+        <video autoplay muted loop width="25%">
+            <source src="../assets/videos/Coldplay Experience.mp4" type="video/mp4">
+            <source src="../assets/videos/Coldplay Experience.avi" type="video/x-msvideo">
+            <source src="../assets/videos/Coldplay Experience.mov" type="video/quicktime">
+        </video>    
+        <video autoplay muted loop width="25%">
+            <source src="../assets/videos/Coldplay Sences.mp4" type="video/mp4">
+            <source src="../assets/videos/Coldplay Sences.avi" type="video/x-msvideo">
+            <source src="../assets/videos/Coldplay Sences.mov" type="video/quicktime">
+        </video>        
+    </div>
+
+    <div>
+        <section class="centrado">
+            <div class="gallery">
+                <a href="../assets/images/Blue.jpg" target="_blank">
+                    <img src="../assets/images/Blue.jpg" alt="Chris Martin en el escenario con el publico con su pulsera LED en azul">
+                </a>
+                <div class="desc">
+                    "<i>If you never try, you'll never know.</i>" - Fix You
+                </div>
+            </div>
+            <div class="gallery">
+                <a href="../assets/images/Scenario.jpg" target="_blank">
+                    <img src="../assets/images/Scenario.jpg" alt=""> 
+                </a>
+                <div class="desc">
+                    "<i>Cause you're a sky full of stars</i>." - Sky Full of Stars
+                </div>
+            </div>
+            <div class="gallery">
+                <a href="../assets/images/Fireworks.jpg" target="_blank">
+                    <img src="../assets/images/Fireworks.jpg" alt="Chris Martin con fuegos pirotecnicos de fondo">
+                </a>
+                <div class="desc">
+                    "<i>Under this pressure, under this weight, we are diamonds taking shape.</i>" - Adventure of a Lifetime
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    <footer class="footer">
+        <p>Derechos Reservados &copy; 2025</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="author" content="Christian Alegria Ruiz">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" src="../assets/icons/favicon.ico">
+    <title>Disco Grafia</title>
+</head>
+
+<style>
+    body {
+        font-family: "Lucida Console", "Courier New", monospace;
+        background: linear-gradient(to right, rgb(189, 189, 255), rgb(255, 233, 236));
+        padding: 0;
+        margin: 0;
+    }
+
+    .container{
+        display: flex;
+        justify-content: center;
+        margin:35px 0 35px 0;
+    }
+
+    header {
+        text-align: center;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    li a:hover:not(.active) {
+        background-color: #111;
+    }
+
+    .active {
+        background-color: #b4b240;
+    }
+
+    h1 {
+        background-color: black;
+        padding: 10px;
+        margin: 0;
+        color: #92a4ff;
+    }
+
+    table {
+        border-collapse: collapse;
+        border: 2px solid rgb(200, 200, 200);
+        letter-spacing: 1px;
+        font-size: 1.5rem;
+        background-color: #FFF;
+    }
+
+    td {
+        border: 1px solid rgb(190, 190, 190);
+        padding: 10px 20px;
+    }
+
+    th {
+        border: 1px solid rgb(190, 190, 190);
+        padding: 10px 20px;
+        background-color: rgb(162, 162, 162);
+    }
+
+    .footer {
+        background-color: #333;
+        color: #FFF;
+        padding: 10px;
+        text-align: center;
+        clear: both;
+    }
+</style>
+
+<body>
+    <header>
+        <h1>Coldplay</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="../index.html">Home</a>      
+                </li>
+                <li>
+                    <a class="active" href="discografia.html">Discografia</a>    
+                </li>
+                <li>
+                    <a href="multimedia.html">Multimedia</a>    
+                </li>
+                <li>
+                    <a href="contacto.html">contacto</a>    
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <h2>Preferencias</h2>
+
+    <hr>
+
+    <div class="container">
+        <table>
+            <colgroup>
+                <col>
+                <col >
+                <col>
+            </colgroup>
+
+            <th>Disco</th>
+            <th>Año</th>
+            <th>Cancion Destacada</th>
+
+            <tr>
+                <td>Parachutes</td>
+                <td>2000</td>
+                <td>Yello</td>
+            </tr>
+            <tr>
+                <td>A Rush of Blood to the Head</td>
+                <td>2002</td>
+                <td>The Scientist</td>
+            </tr>
+            <tr>
+                <td>X&Y</td>
+                <td>2005</td>
+                <td>Fix You</td>
+            <tr>
+                <td>Mylo Xyloto</td>
+                <td>2011</td>
+                <td>Paradise</td>
+            </tr>
+            <tr>
+                <td>Ghost Stories</td>
+                <td>2014</td>
+                <td>A Sky Full of Stars</td>
+            </tr>
+            <tr>
+                <td>A Head Full of Dreams</td>
+                <td>2015</td>
+                <td>Adventure of a Lifetime</td>
+            </tr>
+            <tr>
+                <td>Everyday Life</td>
+                <td>2019</td>
+                <td>Orphans</td>
+            </tr>
+            <tr>
+                <td>Music of the Spheres</td>
+                <td>2021</td>
+                <td>My Universe</td>
+            </tr>
+            <tr>
+                <td>Moon Music</td>
+                <td>2024</td>
+                <td>feelslikeimfallinginlove</td>
+            </tr>
+        </table>
+    </div>
+    
+    <footer class="footer">
+        <p>Derechos Reservados &copy; 2025</p>
+    </footer>
+</body>
+</html>
