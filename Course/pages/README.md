@@ -1,4 +1,4 @@
-# 📑 Estructura de la Carpeta Pages  
+# 📰 Estructura de la Carpeta Pages  
 
 ## 📄 Archivos  
 - Dentro de esta carpeta comúnmente encontrarás páginas o secciones individuales de la web. Cada archivo HTML representa una sección o una página específica del sitio, organizada por tema o función.  
