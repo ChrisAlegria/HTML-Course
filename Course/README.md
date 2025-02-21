@@ -1,13 +1,12 @@
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<h2>Archivos</h2>
--Index.html: Pagina html la cual funciona como direccionamiento o indice, el cual ademas funciona como punto de ingreso a la pagina web de manera local o hosteada.
+# 🌱 Estructura de la Carpeta Raíz  
 
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<h2>Carpetas</h2>
--Assets: Carpeta que contiene otras carpetas de todos aquellos archivos que son estaticos (imagenes, iconos, videos, etc..).
+## 📄 Archivos  
+- **`index.html`**: Página principal del sitio web. Funciona como punto de ingreso tanto en local como cuando está alojada en un servidor. También sirve como índice para navegar entre las diferentes secciones del sitio.  
 
--Pages: Carpeta que alberga otras carpetas o archivos correspondientes a las diferentes secciones de la página web.
+## 📂 Carpetas  
+- **`assets/`**: Contiene todos los archivos estáticos, como imágenes, íconos, videos, fuentes, etc.  
+- **`pages/`**: Almacena las diferentes secciones de la página web, organizadas en archivos o subcarpetas según sea necesario.  
 
-<hr>
+---
 
-<h1></h1>
+💡 *Este README describe la estructura del curso para facilitar su comprensión y mantenimiento.*  
