@@ -42,12 +42,12 @@ El **código** contenido en este repositorio es **de mi autoría**, ya que fue e
 
 💻 *Este proyecto y curso fueron realizados con fines educativos, basados en el curso de **SergieCode**, y con el objetivo de aprender y practicar HTML.*  
 
-## Agradecimientos y Menciones  
+## 🏆 Agradecimientos y Menciones  
 Deseo expresar mi más sincero agradecimiento al maestro `©SergieCode` por su invaluable contribución a mi aprendizaje en el curso de HTML. Gracias a sus explicaciones claras, su enfoque práctico y su generosidad al compartir sus conocimientos, este proyecto se ha hecho posible. Su dedicación y esfuerzo han sido fundamentales para expandir mis horizontes y llevar mi aprendizaje a un nivel superior. ¡Le agradezco profundamente por ser un instructor tan inspirador y comprometido con el desarrollo de sus estudiantes!
 
 Asimismo, quiero extender mi más profundo reconocimiento a los creadores de los recursos multimedia utilizados en este proyecto. Los **contenidos visuales**, **auditivos** y **de video** pertenecen a sus respectivos autores y compañías, y sin su material, este proyecto no habría podido alcanzar la calidad y claridad que presenta hoy. Agradezco enormemente el trabajo y la dedicación que han invertido en la creación de estos recursos. Lamento si esto representa una inconveniencia, y con el mayor respeto, agradezco por permitirnos acceder a ellos de manera educativa. Me he asegurado de seleccionar los recursos de más alta calidad para honrar su esfuerzo y dedicación.
 
 ---
 
-## Desarrollado  
+## 🖥️ Desarrollador  
 Este proyecto fue desarrollado por `©ChrisAlegria`. Todos los derechos reservados.
