@@ -1,4 +1,4 @@
-# 📚 Curso HTML - Estructura y Nota Importante  
+# 📚 Curso HTML
 
 ## 📖 Descripción del Curso y Proyecto  
 Este repositorio está compuesto por dos partes:
