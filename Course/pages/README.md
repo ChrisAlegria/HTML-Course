@@ -5,4 +5,8 @@
 
 ## 📂 Carpetas  
 - **`assets/`**: Carpeta que contiene archivos estáticos utilizados exclusivamente dentro de las páginas, como imágenes, íconos, videos, fuentes, etc.  
-- **`subcarpetas/`**: Dependiendo de la organización del proyecto, pueden existir subcarpetas que alojen contenidos específicos para distintas secciones, como formul
+- **`subcarpetas/`**: Dependiendo de la organización del proyecto, pueden existir subcarpetas que alojen contenidos específicos para distintas secciones, como formularios, información del usuario, o contenido específico.  
+
+---
+
+💡 *Este README describe la estructura y el uso de la carpeta "pages" del curso para facilitar su comprensión y mantenimiento.*  
