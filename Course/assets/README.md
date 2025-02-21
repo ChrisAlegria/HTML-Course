@@ -1,9 +1,12 @@
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<!-- ^Carpetas -->
--aud/audio/audios: Carpeta que contiene audios en diversos formatos, como lo son mp3, wav, etc..
+# 🎥 Estructura de la Carpeta assets  
 
--ico/icons: Carpeta que contiene iconos comunmente en formato png.
+## 📂 Carpetas  
 
--img/image/images: Carpeta que contiene imagenes en diversos formatos, como lo son png, jpg, etc..
+- **`aud/audio/audios/`**: Carpeta que contiene audios en diversos formatos, como MP3, WAV, etc.  
+- **`ico/icons/`**: Carpeta que contiene íconos comúnmente en formato PNG.  
+- **`img/images/`**: Carpeta que contiene imágenes en diversos formatos, como PNG, JPG, etc.  
+- **`vid/video/videos/`**: Carpeta que contiene videos en diversos formatos, como MP4, MOV, etc.  
 
--vid/video/videos: Carpeta que contiene videos en diversos formatos, como lo son mp4, mov, etc..
+---
+
+💡 *Este README describe la estructura y el contenido de la carpeta "assets" del curso para facilita
