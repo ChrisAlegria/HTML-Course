@@ -49,5 +49,5 @@ Asimismo, quiero extender mi más profundo reconocimiento a los creadores de los
 
 ---
 
-## 🖥️ Desarrollador  
+## 🔥 Desarrollador  
 Este proyecto fue desarrollado por `©ChrisAlegria`. Todos los derechos reservados.
