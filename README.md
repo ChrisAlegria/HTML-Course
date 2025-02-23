@@ -1,53 +1,58 @@
-# 📚 Curso HTML
+# 📚 HTML Course
 
-## 📖 Descripción del Curso y Proyecto  
-Este repositorio está compuesto por dos partes:
+## 📖 Course and Project Description  
+This repository is composed of two parts:
 
-1. **Curso de HTML**:  
-   En la carpeta **`course/`**, se encuentran mis notas personales sobre los conceptos básicos y prácticos de HTML que aprendí en el curso de **SergieCode**. Este curso ofrece la base fundamental para comprender y practicar HTML, e incluye ejemplos de código, ejercicios prácticos y explicaciones detalladas sobre la teoría de HTML y la estructuración de sitios web.
+1. **HTML Course**:  
+   In the **`course/`** folder, you will find my personal notes on the basic and practical concepts of HTML that I learned in the **SergieCode** course. This course provides the fundamental knowledge needed to understand and practice HTML, including code examples, practical exercises, and detailed explanations about HTML theory and website structure.
 
-2. **Proyecto sobre Coldplay**:  
-   En la carpeta **`project/`**, desarrollé un proyecto inspirado en el ejemplo mostrado en el curso de **SergieCode**, con un enfoque distinto: el tema central es **Coldplay**. Basándome en los conceptos adquiridos durante el curso, creé un sitio web sobre la banda, utilizando los conocimientos adquiridos para llevar a cabo la implementación.
-
----
-
-### ⚖️ Uso de Contenido No Propio  
-En ambas partes de este repositorio (tanto en el curso como en el proyecto), se han utilizado **recursos multimedia** (como imágenes, videos, audios e íconos) que no son de mi autoría. Dichos recursos pertenecen a sus respectivos creadores y compañías. Su utilización se limita exclusivamente al ámbito educativo, dentro del contexto del curso y proyecto, y **no tiene fines comerciales**. Todos los derechos de autor sobre los contenidos visuales, auditivos y de video pertenecen a los respectivos creadores originales.  
-
-### 🔑 Propósito Educativo  
-El principal objetivo de este repositorio es aprender y practicar HTML, así como la estructuración de sitios web. Cualquier recurso multimedia utilizado en el proyecto es de carácter **puramente educativo** y **sin fines lucrativos**. A lo largo del desarrollo de este proyecto, se han implementado elementos de **mi autoría**, tales como comentarios detallados en el código, ajustes personalizados y una investigación más profunda para enriquecer y fortalecer el proceso de aprendizaje.
+2. **Coldplay Project**:  
+   In the **`project/`** folder, I developed a project inspired by the example shown in the **SergieCode** course, but with a different approach: the central theme is **Coldplay**. Based on the concepts learned during the course, I created a website about the band, using the knowledge acquired to implement the project.
 
 ---
 
-## 💼 Estructura del Proyecto  
+### ⚖️ Use of Non-Owned Content  
+In both parts of this repository (the course and the project), **multimedia resources** (such as images, videos, audio, and icons) that are not my own work have been used. These resources belong to their respective creators and companies. They are used exclusively for educational purposes, within the context of the course and project, and **are not for commercial use**. All copyright over the visual, audio, and video content belongs to the respective original creators.
 
-### 📂 Carpetas  
-- **`course/`**: Contiene todas las notas y ejemplos relacionados con los conceptos básicos y prácticos de HTML que aprendí en el curso de **SergieCode**. 
+### 🔑 Educational Purpose  
+The main goal of this repository is to learn and practice HTML, as well as website structuring. Any multimedia resources used in the project are **purely educational** and **non-commercial**. Throughout the development of this project, I have implemented **my own work**, such as detailed comments in the code, custom adjustments, and in-depth research to enrich and strengthen the learning process.
+
+---
+
+## 💼 Project Structure  
+
+### 📂 Folders  
+- **`course/`**: Contains all the notes and examples related to the basic and practical concepts of HTML that I learned in the **SergieCode** course.
   
-- **`project/`**: Contiene el proyecto principal, centrado en **Coldplay**, que fue realizado como una aplicación práctica de los conocimientos adquiridos durante el curso. Este proyecto está basado en HTML y utiliza recursos multimedia relacionados con la banda.
+- **`project/`**: Contains the main project, focused on **Coldplay**, created as a practical application of the knowledge acquired during the course. This project is based on HTML and uses multimedia resources related to the band.
 
 ---
 
-💡 *Este README detalla la estructura y el propósito del repositorio para facilitar su comprensión y mantenimiento. El curso y el proyecto son ejemplos prácticos diseñados para aprender y demostrar el uso de HTML.*  
+💡 *This README outlines the structure and purpose of the repository to facilitate its understanding and maintenance. The course and project are practical examples designed to learn and demonstrate the use of HTML.*
 
 ---
 
-### ⚠️ Importante  
-El **código** contenido en este repositorio es **de mi autoría**, ya que fue escrito y adaptado por mí durante el curso y el desarrollo del proyecto. Los únicos elementos que no me pertenecen son los recursos multimedia (imágenes, audios, videos, etc.), que han sido utilizados con fines educativos, respetando en todo momento los derechos de autor de los creadores originales.  
+### ⚠️ Important  
+The **code** in this repository is **my own work**, as it was written and adapted by me during the course and project development. The only elements that do not belong to me are the multimedia resources (images, audio, videos, etc.), which have been used for educational purposes, always respecting the copyright of the original creators.
 
-- El **curso** incluye ejemplos y recursos tomados con fines educativos, respetando los derechos de autor de los creadores originales.  
-- El **proyecto sobre Coldplay** fue creado con el mismo propósito: practicar lo aprendido en el curso de **SergieCode**. Todos los recursos multimedia utilizados (imágenes, audios, videos, etc.) son propiedad de sus respectivos autores y compañías, y se utilizan con fines educativos, respetando los derechos de autor.
-
----
-
-💻 *Este proyecto y curso fueron realizados con fines educativos, basados en el curso de **SergieCode**, y con el objetivo de aprender y practicar HTML.*  
-
-## 🏆 Agradecimientos y Menciones  
-Deseo expresar mi más sincero agradecimiento al maestro `©SergieCode` por su invaluable contribución a mi aprendizaje en el curso de HTML. Gracias a sus explicaciones claras, su enfoque práctico y su generosidad al compartir sus conocimientos, este proyecto se ha hecho posible. Su dedicación y esfuerzo han sido fundamentales para expandir mis horizontes y llevar mi aprendizaje a un nivel superior. ¡Le agradezco profundamente por ser un instructor tan inspirador y comprometido con el desarrollo de sus estudiantes!
-
-Asimismo, quiero extender mi más profundo reconocimiento a los creadores de los recursos multimedia utilizados en este proyecto. Los **contenidos visuales**, **auditivos** y **de video** pertenecen a sus respectivos autores y compañías, y sin su material, este proyecto no habría podido alcanzar la calidad y claridad que presenta hoy. Agradezco enormemente el trabajo y la dedicación que han invertido en la creación de estos recursos. Lamento si esto representa una inconveniencia, y con el mayor respeto, agradezco por permitirnos acceder a ellos de manera educativa. Me he asegurado de seleccionar los recursos de más alta calidad para honrar su esfuerzo y dedicación.
+- The **course** includes examples and resources taken for educational purposes, respecting the copyright of the original creators.  
+- The **Coldplay project** was created with the same purpose: to practice what I learned in the **SergieCode** course. All multimedia resources used (images, audio, videos, etc.) are owned by their respective authors and companies and are used for educational purposes, respecting the copyright.
 
 ---
 
-## 🔥 Desarrollador  
-Este proyecto fue desarrollado por `©ChrisAlegria`. Todos los derechos reservados.
+💻 *This project and course were made for educational purposes, based on the **SergieCode** course, and with the goal of learning and practicing HTML.*
+
+## 🏆 Acknowledgments and Mentions  
+I would like to express my deepest gratitude to teacher `©SergieCode` for his invaluable contribution to my learning in the HTML course. Thanks to his clear explanations, practical approach, and generosity in sharing his knowledge, this project has become possible. His dedication and effort have been essential to expanding my horizons and taking my learning to a higher level. I deeply thank him for being such an inspiring and committed instructor.
+
+I also want to extend my deepest recognition to the creators of the multimedia resources used in this project. The **visual**, **audio**, and **video** content belongs to their respective authors and companies, and without their material, this project would not have been able to reach the quality and clarity it presents today. I am very grateful for the work and dedication they have put into creating these resources. I apologize for any inconvenience, and with the utmost respect, I thank them for allowing us to access them for educational purposes. I have made sure to select the highest-quality resources to honor their efforts and dedication.
+
+---
+
+## 🗣️ Project Language  
+All the content in this repository, both in the **project** and the **course**, is in **Spanish**. I have chosen to keep the content in this language because it is a **personal** project, and it is easier for me to understand and organize the information in Spanish. This choice has allowed me to work more efficiently and in greater detail in the comments and code structure. **Only the repository description and this README will be in English**, to ensure that it is accessible to a wider audience, while maintaining a clear and understandable educational focus.
+
+---
+
+## 🔥 Developer  
+This project was developed by `©ChrisAlegria`. All rights reserved.
